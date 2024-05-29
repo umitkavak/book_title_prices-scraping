@@ -11,4 +11,5 @@ With this tool, you can extract book titles and prices from an online bookstore 
 ``
 pip install beautifulsoup4 requests pandas
 ``
+
 After installing all libraries, run the code that scrapes around 50 pages and then saves almost a thousand books to a csv file.
